@@ -1189,15 +1189,11 @@ main {
 
 .companies a:hover img {
     filter: brightness(70%);
-
 }
 
 .companies a:active img {
     filter: brightness(30%);
 }
-
-
-/*     */
 
 .information {
     margin: 0;
@@ -1408,8 +1404,6 @@ main {
     filter: brightness(30%);
 }
 
-
-/*             */
 footer {
     margin: 0;
     min-height: 111px;
